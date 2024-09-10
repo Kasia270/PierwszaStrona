@@ -1,2 +1,2 @@
 # PierwszaStrona
-Pierwsza Strona
+Strona do ćwiczeń
